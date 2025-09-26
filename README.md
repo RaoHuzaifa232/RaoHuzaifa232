@@ -1,114 +1,208 @@
-# Hi there, I'm Rao Huzaifa! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm constantly learning and exploring new technologies
-- 👯 I'm looking to collaborate on innovative projects
-- 💬 Ask me about web development, programming, or tech in general
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: I love turning coffee into code!
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rao%20Huzaifa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoHuzaifa232&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Angular+%7C+Node.js+%7C+NestJS+Expert;Building+Modern+Web+Solutions" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🏆 GitHub Trophies
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+const huzaifa = {
+    pronouns: "He/Him",
+    location: "Pakistan 🇵🇰",
+    currentFocus: "Full Stack Development",
+    technologies: {
+        frontend: ["Angular", "TypeScript", "SCSS", "Tailwind CSS"],
+        backend: ["Node.js", "NestJS", "Express.js"],
+        database: ["MongoDB"],
+        ui: ["Angular Material", "PrimeNG"],
+        tools: ["Git", "VS Code", "Postman"]
+    },
+    currentlyLearning: ["Microservices", "Docker", "AWS"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+<br clear="right"/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Arsenal
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaoHuzaifa232&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+
+### 🎨 Frontend Mastery
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,scss,tailwind" />
+</p>
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-009688?style=for-the-badge&logo=angular&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### ⚡ Backend Excellence
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb" />
+</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-## 📈 Activity Graph
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoHuzaifa232&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🌟 Featured Projects
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/RaoHuzaifa232/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaoHuzaifa232&repo=project1&theme=radical&hide_border=true" alt="Project 1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaoHuzaifa232&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚀 Angular E-Commerce</h3>
+        <div align="center">  
+          <a href="https://github.com/RaoHuzaifa232/angular-ecommerce" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaoHuzaifa232&repo=angular-ecommerce&theme=tokyonight&hide_border=true" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/RaoHuzaifa232/angular-ecommerce" target="_blank">
+              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>  
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+            </a>
+          </p>
+          <p><strong>Angular, PrimeNG, Node.js, MongoDB</strong> - Full-stack e-commerce platform with modern UI</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚡ NestJS API Gateway</h3>
+        <div align="center">
+          <a href="https://github.com/RaoHuzaifa232/nestjs-api" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaoHuzaifa232&repo=nestjs-api&theme=tokyonight&hide_border=true" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/RaoHuzaifa232/nestjs-api" target="_blank">
+              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>  
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+            </a>
+          </p>
+          <p><strong>NestJS, MongoDB, JWT</strong> - Scalable REST API with authentication & authorization</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> What I'm Up To
+
+```typescript
+class CurrentStatus {
+  constructor() {
+    this.workingOn = [
+      "🔥 Building scalable Angular applications",
+      "🚀 Developing robust NestJS APIs", 
+      "📱 Creating responsive UI with Angular Material & PrimeNG"
+    ];
+    
+    this.learning = [
+      "☁️ Cloud Architecture (AWS)",
+      "🐳 Docker & Containerization",
+      "🔄 Microservices Design Patterns"
+    ];
+    
+    this.askMeAbout = [
+      "💻 Angular & TypeScript best practices",
+      "🔧 NestJS architecture & design patterns",
+      "🎨 Modern UI/UX with Angular Material",
+      "📡 RESTful API development",
+      "🗃️ MongoDB optimization"
+    ];
+  }
+}
+```
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Connect & Collaborate
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/RaoHuzaifa232/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaoHuzaifa232&repo=project2&theme=radical&hide_border=true" alt="Project 2" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/your-handle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-## 🤝 Connect with Me
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 💭 Random Dev Quote
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaoHuzaifa232&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
-  **Thanks for visiting! 😊**
+  <img src="https://komarev.com/ghpvc/?username=RaoHuzaifa232&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
   
-  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Thanks for stopping by! Let's build something amazing together! <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 </div>
