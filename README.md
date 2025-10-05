@@ -113,7 +113,7 @@ const raoHuzaifa = {
 <table>
 <tr>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="40" height="40" />
   <br />
   <sub><b>Tailwind CSS</b></sub>
 </td>
@@ -123,7 +123,7 @@ const raoHuzaifa = {
   <sub><b>Angular Material</b></sub>
 </td>
 <td align="center" width="120">
-  <img src="https://primefaces.org/cdn/primeng/images/primeng-logo.png" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/61680145?s=200&v=4" width="40" height="40" />
   <br />
   <sub><b>PrimeNG</b></sub>
 </td>
@@ -144,12 +144,12 @@ const raoHuzaifa = {
   <sub><b>Express.js</b></sub>
 </td>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" />
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" />
   <br />
   <sub><b>NestJS</b></sub>
 </td>
 <td align="center" width="120">
-  <img src="https://ngrx.io/assets/images/badge.svg" width="40" height="40" />
+  <img src="https://ngrx.io/assets/images/ngrx-badge.png" width="40" height="40" />
   <br />
   <sub><b>NgRx</b></sub>
 </td>
@@ -253,11 +253,6 @@ Ensuring optimal experience across all devices
   
 ## 📊 **My Coding Journey**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RaoHuzaifa232/RaoHuzaifa232/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<br>
 
 
 <div align="center">
