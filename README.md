@@ -259,43 +259,6 @@ Ensuring optimal experience across all devices
 
 <br>
 
-<div align="center">
-  
-### 🌟 **Quick Stats**
-
-<table>
-<tr>
-<td align="center" width="20%">
-  
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1-blue?style=for-the-badge&logo=eye&logoColor=white)
-
-</td>
-<td align="center" width="20%">
-
-![GitHub Streak](https://img.shields.io/badge/Streak-0-red?style=for-the-badge&logo=fire&logoColor=white)
-
-</td>
-<td align="center" width="20%">
-
-![Commits](https://img.shields.io/badge/Commits-1-green?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-<td align="center" width="20%">
-
-![Repositories](https://img.shields.io/badge/Repos-1-purple?style=for-the-badge&logo=github&logoColor=white)
-
-</td>
-<td align="center" width="20%">
-
-![Stars](https://img.shields.io/badge/Stars-1-yellow?style=for-the-badge&logo=star&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
 
 <div align="center">
   
@@ -422,27 +385,6 @@ const mySkills = {
 
 </div>
 
-<br>
-
-<div align="center">
-  
-### 🎪 **Interactive Stats**
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Journey" />
-
-</div>
-
-<br>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=6&custom_title=Languages%20I%20Code%20In" />
-
-</div>
-
-</div>
 
 </div>
 
