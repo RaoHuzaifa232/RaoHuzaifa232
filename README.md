@@ -253,30 +253,112 @@ Ensuring optimal experience across all devices
   
 ## 📊 **GitHub Analytics**
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&theme=react&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&hide_title=false" />
+</div>
+
+<br>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-![Rao Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true)
+### 📈 **Profile Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&ring_color=58A6FF" />
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaoHuzaifa232&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+### 🔥 **Contribution Streak**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoHuzaifa232&theme=aura&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=58A6FF&dates=58A6FF" />
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <table>
 <tr>
-<td width="100%" align="center">
+<td width="33%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+### 💻 **Most Used Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&custom_title=Top%20Languages" />
+
+</td>
+<td width="33%" align="center">
+
+### 🏆 **Trophy Case**
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaoHuzaifa232&theme=aura&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=MultiLanguage,Stars,Commits,Issues,Repositories,PullRequest,Followers" />
+
+</td>
+<td width="33%" align="center">
+
+### 📊 **Profile Summary**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoHuzaifa232&theme=aura" />
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🌟 **Repository Stats**
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RaoHuzaifa232&repo=RaoHuzaifa232&theme=aura&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+</td>
+<td width="50%" align="center">
+
+### 📅 **Commit Calendar**
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaoHuzaifa232&theme=aura&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Coding%20Time" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+  
+### 🎯 **Contribution Metrics**
+
+<table>
+<tr>
+<td align="center" width="25%">
+  
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/RaoHuzaifa232?label=Monthly%20Commits&style=for-the-badge&color=58A6FF&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+![GitHub Issues](https://img.shields.io/github/issues/RaoHuzaifa232?label=Open%20Issues&style=for-the-badge&color=FF6B6B&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+![GitHub PRs](https://img.shields.io/github/issues-pr/RaoHuzaifa232?label=Open%20PRs&style=for-the-badge&color=4ECDC4&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+![GitHub Followers](https://img.shields.io/github/followers/RaoHuzaifa232?label=Followers&style=for-the-badge&color=9B59B6&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 
