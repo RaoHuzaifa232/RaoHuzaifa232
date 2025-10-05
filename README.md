@@ -6,15 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rao%20Huzaifa&fontSize=80&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Angular%20Specialist&descAlignY=55&descAlign=center" />
 </div>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=RaoHuzaifa232&color=blueviolet&style=flat-square&label=Profile+Views)
-
-[![GitHub followers](https://img.shields.io/github/followers/RaoHuzaifa232?label=Followers&style=social)](https://github.com/RaoHuzaifa232?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/RaoHuzaifa232?label=Stars&style=social)](https://github.com/RaoHuzaifa232)
-
-</div>
-
 ---
 
 <div align="center">
@@ -74,6 +65,7 @@ const raoHuzaifa = {
 ## 🛠️ **Tech Stack**
 
 ### **🎨 Frontend Technologies**
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -110,6 +102,7 @@ const raoHuzaifa = {
 </table>
 
 ### **🎯 UI Libraries & Frameworks**
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -131,6 +124,7 @@ const raoHuzaifa = {
 </table>
 
 ### **⚡ State Management & Backend**
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -169,18 +163,21 @@ const raoHuzaifa = {
 <td width="33%" align="center">
 
 ### ⚡ **Dynamic UI Development**
+
 Creating responsive and interactive user interfaces with Angular 16+
 
 </td>
 <td width="33%" align="center">
 
 ### 🔧 **Performance Optimization**
+
 Implementing best practices for fast, efficient web applications
 
 </td>
 <td width="33%" align="center">
 
 ### 🎨 **Modern Styling**
+
 Utilizing Tailwind CSS, SCSS, and component libraries for beautiful designs
 
 </td>
@@ -189,18 +186,21 @@ Utilizing Tailwind CSS, SCSS, and component libraries for beautiful designs
 <td width="33%" align="center">
 
 ### 📊 **State Management**
+
 Managing complex application state with NgRx
 
 </td>
 <td width="33%" align="center">
 
 ### 🔌 **API Integration**
+
 Seamless integration with backend services and APIs
 
 </td>
 <td width="33%" align="center">
 
 ### 📱 **Responsive Design**
+
 Ensuring optimal experience across all devices
 
 </td>
@@ -220,10 +220,12 @@ Ensuring optimal experience across all devices
 <td width="50%">
 
 ### 💼 **Current Role**
+
 **Frontend Developer** at Technovez  
-*(March 2024 - Present)*
+_(March 2024 - Present)_
 
 ### 🚀 **Project Experience**
+
 - Contributed to multiple **real-world projects**
 - Focus on **scalability** and **performance**
 - **User-centric solutions** approach
@@ -232,11 +234,13 @@ Ensuring optimal experience across all devices
 <td width="50%">
 
 ### 📈 **Specializations**
+
 - **Angular 16+** ecosystem expertise
 - Modern development practices
 - **Full-stack development** learning
 
 ### 🎯 **Commitment**
+
 - Clean, maintainable code
 - Exceptional user experiences
 - Continuous learning mindset
@@ -253,8 +257,6 @@ Ensuring optimal experience across all devices
   
 ## 📊 **My Coding Journey**
 
-
-
 <div align="center">
   
 ### 🎨 **My Coding Canvas**
@@ -264,19 +266,19 @@ graph TD
     A[🚀 Rao Huzaifa] --> B[💻 Frontend Developer]
     A --> C[🎯 Angular Specialist]
     A --> D[✨ Clean Code Enthusiast]
-    
+
     B --> E[📱 Responsive Design]
     B --> F[⚡ Performance Optimization]
     B --> G[🎨 Modern UI/UX]
-    
+
     C --> H[🔧 Angular 16+]
     C --> I[📊 NgRx State Management]
     C --> J[🎪 Component Architecture]
-    
+
     D --> K[📝 Maintainable Code]
     D --> L[🔄 Best Practices]
     D --> M[🚀 Scalable Solutions]
-    
+
     style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
     style B fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
     style C fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
@@ -302,8 +304,6 @@ graph TD
 </table>
 
 </div>
-
-
 
 </div>
 
@@ -347,10 +347,10 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 <tr>
 <td width="100%" align="center">
 
-> *"Clean code always looks like it was written by someone who cares."*  
+> _"Clean code always looks like it was written by someone who cares."_  
 > **- Robert C. Martin**
 
-I believe in writing code that not only works but is also **maintainable**, **scalable**, and a **joy to work with**! 
+I believe in writing code that not only works but is also **maintainable**, **scalable**, and a **joy to work with**!
 
 </td>
 </tr>
