@@ -315,25 +315,30 @@ graph TD
 
 I'm always open to discussing new opportunities, collaborating on interesting projects, or sharing knowledge about frontend development!
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+  
+<div style="background: linear-gradient(135deg, #0077B5, #005885); padding: 15px 25px; border-radius: 25px; box-shadow: 0 8px 25px rgba(0,119,181,0.3); transition: transform 0.3s ease; text-decoration: none; display: inline-block;">
+<a href="https://www.linkedin.com/in/RaoMHuzaifa/" style="color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+  <span style="font-size: 18px;">💼</span>
+  <span>LinkedIn</span>
+</a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/your-profile)
+<div style="background: linear-gradient(135deg, #EA4335, #D33B2C); padding: 15px 25px; border-radius: 25px; box-shadow: 0 8px 25px rgba(234,67,53,0.3); transition: transform 0.3s ease; text-decoration: none; display: inline-block;">
+<a href="mailto:mhuzaifarao232@gmail.com" style="color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+  <span style="font-size: 18px;">📧</span>
+  <span>Email</span>
+</a>
+</div>
 
-</td>
-<td width="33%" align="center">
+<div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 15px 25px; border-radius: 25px; box-shadow: 0 8px 25px rgba(102,126,234,0.3); transition: transform 0.3s ease; text-decoration: none; display: inline-block;">
+<a href="https://rao-huzaifa-portfolio.web.app/" style="color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 8px;">
+  <span style="font-size: 18px;">🚀</span>
+  <span>Portfolio</span>
+</a>
+</div>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
-
-</td>
-<td width="33%" align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://your-portfolio.com)
-
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
