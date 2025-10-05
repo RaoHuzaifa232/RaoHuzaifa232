@@ -251,112 +251,196 @@ Ensuring optimal experience across all devices
 
 <div align="center">
   
-## 📊 **GitHub Analytics**
+## 📊 **My Coding Journey**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&theme=react&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&hide_title=false" />
+  <img src="https://raw.githubusercontent.com/RaoHuzaifa232/RaoHuzaifa232/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
 
+<div align="center">
+  
+### 🌟 **Quick Stats**
+
 <table>
 <tr>
-<td width="50%" align="center">
-
-### 📈 **Profile Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&ring_color=58A6FF" />
+<td align="center" width="20%">
+  
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1-blue?style=for-the-badge&logo=eye&logoColor=white)
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="20%">
 
-### 🔥 **Contribution Streak**
+![GitHub Streak](https://img.shields.io/badge/Streak-0-red?style=for-the-badge&logo=fire&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoHuzaifa232&theme=aura&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=58A6FF&dates=58A6FF" />
+</td>
+<td align="center" width="20%">
+
+![Commits](https://img.shields.io/badge/Commits-1-green?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+<td align="center" width="20%">
+
+![Repositories](https://img.shields.io/badge/Repos-1-purple?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+<td align="center" width="20%">
+
+![Stars](https://img.shields.io/badge/Stars-1-yellow?style=for-the-badge&logo=star&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 💻 **Most Used Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&custom_title=Top%20Languages" />
-
-</td>
-<td width="33%" align="center">
-
-### 🏆 **Trophy Case**
-
-<img src="https://github-profile-trophy.vercel.app/?username=RaoHuzaifa232&theme=aura&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=MultiLanguage,Stars,Commits,Issues,Repositories,PullRequest,Followers" />
-
-</td>
-<td width="33%" align="center">
-
-### 📊 **Profile Summary**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaoHuzaifa232&theme=aura" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🌟 **Repository Stats**
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RaoHuzaifa232&repo=RaoHuzaifa232&theme=aura&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-
-</td>
-<td width="50%" align="center">
-
-### 📅 **Commit Calendar**
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaoHuzaifa232&theme=aura&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Coding%20Time" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 <div align="center">
   
-### 🎯 **Contribution Metrics**
+### 🎨 **My Coding Canvas**
+
+```mermaid
+graph TD
+    A[🚀 Rao Huzaifa] --> B[💻 Frontend Developer]
+    A --> C[🎯 Angular Specialist]
+    A --> D[✨ Clean Code Enthusiast]
+    
+    B --> E[📱 Responsive Design]
+    B --> F[⚡ Performance Optimization]
+    B --> G[🎨 Modern UI/UX]
+    
+    C --> H[🔧 Angular 16+]
+    C --> I[📊 NgRx State Management]
+    C --> J[🎪 Component Architecture]
+    
+    D --> K[📝 Maintainable Code]
+    D --> L[🔄 Best Practices]
+    D --> M[🚀 Scalable Solutions]
+    
+    style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
+    style B fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#96ceb4,stroke:#333,stroke-width:2px,color:#fff
+```
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 🔥 **Contribution Heatmap**
 
 <table>
 <tr>
-<td align="center" width="25%">
-  
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/RaoHuzaifa232?label=Monthly%20Commits&style=for-the-badge&color=58A6FF&logoColor=white)
+<td width="100%" align="center">
 
-</td>
-<td align="center" width="25%">
-
-![GitHub Issues](https://img.shields.io/github/issues/RaoHuzaifa232?label=Open%20Issues&style=for-the-badge&color=FF6B6B&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-![GitHub PRs](https://img.shields.io/github/issues-pr/RaoHuzaifa232?label=Open%20PRs&style=for-the-badge&color=4ECDC4&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-![GitHub Followers](https://img.shields.io/github/followers/RaoHuzaifa232?label=Followers&style=for-the-badge&color=9B59B6&logoColor=white)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&theme=github&hide_border=true&area=true&custom_title=My%20Coding%20Activity&hide_title=false&line=FF6B6B&point=4ECDC4&area_color=58A6FF)
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 📈 **Development Insights**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### 💻 **Languages I Love**
+
+<div align="center">
+  
+```typescript
+const mySkills = {
+  frontend: {
+    angular: "⭐⭐⭐⭐⭐",
+    typescript: "⭐⭐⭐⭐⭐", 
+    javascript: "⭐⭐⭐⭐⭐",
+    html: "⭐⭐⭐⭐⭐",
+    css: "⭐⭐⭐⭐⭐",
+    scss: "⭐⭐⭐⭐⭐"
+  },
+  styling: {
+    tailwind: "⭐⭐⭐⭐⭐",
+    material: "⭐⭐⭐⭐⭐",
+    primeng: "⭐⭐⭐⭐⭐"
+  },
+  backend: {
+    nodejs: "⭐⭐⭐",
+    express: "⭐⭐⭐",
+    nestjs: "⭐⭐⭐"
+  }
+};
+```
+
+</div>
+
+</td>
+<td width="33%" align="center">
+
+#### 🎯 **What I'm Building**
+
+<div align="center">
+  
+- 🚀 **Scalable Web Apps** with Angular
+- 🎨 **Beautiful UIs** with Tailwind CSS
+- ⚡ **High-Performance** Solutions
+- 📱 **Responsive Designs** for all devices
+- 🔧 **Clean Architecture** Patterns
+- 🎪 **Component Libraries** with PrimeNG
+
+</div>
+
+</td>
+<td width="33%" align="center">
+
+#### 🌟 **My Achievements**
+
+<div align="center">
+  
+- 💼 **Frontend Developer** at Technovez
+- 🎓 **Angular 16+** Expertise
+- 🏆 **Real-world Projects** Contribution
+- 📚 **Continuous Learning** Mindset
+- 🔥 **Performance Optimization** Focus
+- ✨ **User-Centric** Solutions
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 🎪 **Interactive Stats**
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Journey" />
+
+</div>
+
+<br>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=6&custom_title=Languages%20I%20Code%20In" />
+
+</div>
 
 </div>
 
