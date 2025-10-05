@@ -149,9 +149,7 @@ const raoHuzaifa = {
   <sub><b>NestJS</b></sub>
 </td>
 <td align="center" width="120">
-  <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #ff6b6b, #ee5a24); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 12px; margin: 0 auto;">
-    Rx
-  </div>
+  <img src="https://ngrx.io/assets/images/ngrx-logo.png" width="40" height="40" />
   <br />
   <sub><b>NgRx</b></sub>
 </td>
