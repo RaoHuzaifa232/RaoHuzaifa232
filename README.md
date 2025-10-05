@@ -149,7 +149,7 @@ const raoHuzaifa = {
   <sub><b>NestJS</b></sub>
 </td>
 <td align="center" width="120">
-  <img src="https://ngrx.io/assets/images/ngrx-logo.png" width="40" height="40" />
+  <img src="https://ngrx.io/assets/images/badge.svg" width="40" height="40" />
   <br />
   <sub><b>NgRx</b></sub>
 </td>
