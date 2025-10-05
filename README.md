@@ -123,7 +123,7 @@ const raoHuzaifa = {
   <sub><b>Angular Material</b></sub>
 </td>
 <td align="center" width="120">
-  <img src="https://avatars.githubusercontent.com/u/61680145?s=200&v=4" width="40" height="40" />
+  <img src="https://primefaces.org/cdn/primeng/images/primeng-logo-dark.svg" width="40" height="40" />
   <br />
   <sub><b>PrimeNG</b></sub>
 </td>
@@ -149,7 +149,7 @@ const raoHuzaifa = {
   <sub><b>NestJS</b></sub>
 </td>
 <td align="center" width="120">
-  <img src="https://ngrx.io/assets/images/ngrx-badge.png" width="40" height="40" />
+  <img src="https://ngrx.io/assets/images/ngrx-logo.png" width="40" height="40" />
   <br />
   <sub><b>NgRx</b></sub>
 </td>
