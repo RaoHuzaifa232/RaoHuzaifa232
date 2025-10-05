@@ -335,6 +335,8 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 </tr>
 </table>
 
+### 🚀 **Ready to build something amazing together?** 🚀
+
 </div>
 
 ---
@@ -355,18 +357,5 @@ I believe in writing code that not only works but is also **maintainable**, **sc
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlignY=65&desc=Feel%20free%20to%20explore%20my%20repositories&descAlignY=85&descAlign=center" />
-
-### 🚀 **Ready to build something amazing together?** 🚀
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoHuzaifa232)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/RaoHuzaifa232)
 
 </div>
