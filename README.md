@@ -1,9 +1,6 @@
 <div align="center">
   
 # Hi there, I'm Rao Huzaifa 👋
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" height="200" alt="Animated Developer GIF" />
-
 </div>
 
 ---
