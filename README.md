@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rao+Huzaifa+%F0%9F%91%8B;Frontend+Developer+%7C+Angular+Specialist;Clean+Code+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(102,126,234,0.3);">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rao+Huzaifa+%F0%9F%91%8B;Frontend+Developer+%7C+Angular+Specialist;Clean+Code+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+  </div>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rao%20Huzaifa&fontSize=80&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Angular%20Specialist&descAlignY=55&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Rao%20Huzaifa&fontSize=80&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Angular%20Specialist&descAlignY=55&descAlign=center&animation=twinkling&fontColor=ffffff" />
 </div>
 
 ---
