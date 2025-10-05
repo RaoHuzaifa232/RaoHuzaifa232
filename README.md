@@ -2,7 +2,7 @@
   
 # Hi there, I'm Rao Huzaifa 👋
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200" alt="Developer GIF" />
 
 </div>
 
