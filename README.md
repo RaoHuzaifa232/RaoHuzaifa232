@@ -301,42 +301,80 @@ flowchart TD
 
 <div align="center">
   
-### 🔥 **GitHub Analytics**
+### � **Ciode Analytics Dashboard**
 
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25" width="100%"/>
+
+</div>
+
+<!-- Stats Cards with Modern Layout -->
+<div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RaoHuzaifa232&theme=tokyonight&hide_border=true&border_radius=10&card_width=400)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" />
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=RaoHuzaifa232&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=15" alt="GitHub Streak" />
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15&layout=compact&langs_count=8" alt="Top Languages" />
 
 </td>
 </tr>
 </table>
+</div>
 
+<!-- Interactive Activity Graph -->
+<div align="center">
 <br>
 
-<table>
-<tr>
-<td width="100%" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&custom_title=🔥%20My%20Coding%20Journey%20🔥&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=FFFFFF&area=true&hide_border=true&area_color=F85D7F" width="100%" alt="Activity Graph"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&custom_title=My%20Coding%20Journey&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
-</td>
-</tr>
-</table>
-
+<!-- Contribution Snake Animation -->
+<div align="center">
 <br>
 
-<table>
-<tr>
-<td width="100%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaoHuzaifa232/RaoHuzaifa232/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaoHuzaifa232/RaoHuzaifa232/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaoHuzaifa232/RaoHuzaifa232/output/github-contribution-grid-snake.svg">
+</picture>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<!-- Trophy Display -->
+<div align="center">
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaoHuzaifa232&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
+
+<!-- Metrics Display -->
+<div align="center">
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaoHuzaifa232&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15" alt="Wakatime Stats" />
+
+</div>
+
+<!-- Footer Wave -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
 
 </td>
 </tr>
