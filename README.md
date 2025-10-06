@@ -301,13 +301,42 @@ flowchart TD
 
 <div align="center">
   
-### 🔥 **Contribution Heatmap**
+### 🔥 **GitHub Analytics**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RaoHuzaifa232&theme=tokyonight&hide_border=true&border_radius=10&card_width=400)](https://git.io/streak-stats)
+
+</td>
+<td width="50%" align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <table>
 <tr>
 <td width="100%" align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&theme=github&hide_border=true&area=true&custom_title=My%20Coding%20Activity&hide_title=false&line=FF6B6B&point=4ECDC4&area_color=58A6FF)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&custom_title=My%20Coding%20Journey&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHuzaifa232&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
