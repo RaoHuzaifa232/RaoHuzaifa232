@@ -258,61 +258,82 @@ _(March 2024 - Present)_
   
 ### 🎨 **My Coding Canvas**
 
+<table>
+<tr>
+<td width="100%" align="center">
+
+**🚀 Rao Huzaifa - Frontend Developer**
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**💻 Frontend Mastery**
+- 📱 Responsive Design
+- ⚡ Performance Optimization  
+- 🎨 Modern UI/UX
+
+</td>
+<td width="33%" align="center">
+
+**🎯 Angular Expert**
+- 🔧 Angular 16+ Framework
+- 📊 NgRx State Management
+- 🏗️ Component Architecture
+
+</td>
+<td width="33%" align="center">
+
+**✨ Code Craftsman**
+- 📝 Clean & Maintainable Code
+- 🔄 Industry Best Practices
+- 🚀 Scalable Solutions
+
+</td>
+</tr>
+</table>
+
+### 🎯 **Skills Visualization**
+
 ```mermaid
-graph TD
-    A["🚀 Rao Huzaifa<br/>Full Stack Developer"] --> B["💻 Frontend Mastery"]
-    A --> C["🎯 Angular Expert"]
-    A --> D["✨ Code Craftsman"]
+flowchart TD
+    A[🚀 Rao Huzaifa<br/>Frontend Developer] --> B[💻 Frontend Mastery]
+    A --> C[🎯 Angular Expert]
+    A --> D[✨ Code Craftsman]
 
-    B --> E["📱 Responsive Magic"]
-    B --> F["⚡ Lightning Fast"]
-    B --> G["🎨 Pixel Perfect"]
+    B --> E[📱 Responsive Design]
+    B --> F[⚡ Performance Optimization]
+    B --> G[🎨 Modern UI/UX]
 
-    C --> H["🔧 Angular 16+<br/>Latest & Greatest"]
-    C --> I["📊 NgRx Wizard<br/>State Management"]
-    C --> J["�️ Archeitecture<br/>Component Design"]
+    C --> H[🔧 Angular 16+]
+    C --> I[📊 NgRx State Management]
+    C --> J[🏗️ Component Architecture]
 
-    D --> K["📝 Clean & Readable<br/>Maintainable Code"]
-    D --> L["🔄 Best Practices<br/>Industry Standards"]
-    D --> M["🚀 Scalable Solutions<br/>Future Ready"]
+    D --> K[📝 Clean Code]
+    D --> L[🔄 Best Practices]
+    D --> M[🚀 Scalable Solutions]
 
-    %% Central node styling
-    style A fill:linear-gradient(135deg, #667eea 0%, #764ba2 100%),stroke:#fff,stroke-width:4px,color:#fff,font-weight:bold
-
-    %% Main category styling
-    style B fill:linear-gradient(135deg, #f093fb 0%, #f5576c 100%),stroke:#fff,stroke-width:3px,color:#fff,font-weight:bold
-    style C fill:linear-gradient(135deg, #4facfe 0%, #00f2fe 100%),stroke:#fff,stroke-width:3px,color:#fff,font-weight:bold
-    style D fill:linear-gradient(135deg, #43e97b 0%, #38f9d7 100%),stroke:#fff,stroke-width:3px,color:#fff,font-weight:bold
-
-    %% Skill node styling
-    style E fill:linear-gradient(135deg, #fa709a 0%, #fee140 100%),stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:linear-gradient(135deg, #a8edea 0%, #fed6e3 100%),stroke:#333,stroke-width:2px,color:#333
-    style G fill:linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%),stroke:#333,stroke-width:2px,color:#333
-
-    style H fill:linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%),stroke:#fff,stroke-width:2px,color:#fff
-    style I fill:linear-gradient(135deg, #fdbb2d 0%, #22c1c3 100%),stroke:#fff,stroke-width:2px,color:#fff
-    style J fill:linear-gradient(135deg, #e0c3fc 0%, #9bb5ff 100%),stroke:#333,stroke-width:2px,color:#333
-
-    style K fill:linear-gradient(135deg, #96fbc4 0%, #f9f586 100%),stroke:#333,stroke-width:2px,color:#333
-    style L fill:linear-gradient(135deg, #ffeaa7 0%, #fab1a0 100%),stroke:#333,stroke-width:2px,color:#333
-    style M fill:linear-gradient(135deg, #74b9ff 0%, #0984e3 100%),stroke:#fff,stroke-width:2px,color:#fff
-
-    %% Link styling
-    linkStyle 0 stroke:#667eea,stroke-width:3px
-    linkStyle 1 stroke:#667eea,stroke-width:3px
-    linkStyle 2 stroke:#667eea,stroke-width:3px
-    linkStyle 3 stroke:#f093fb,stroke-width:2px
-    linkStyle 4 stroke:#f093fb,stroke-width:2px
-    linkStyle 5 stroke:#f093fb,stroke-width:2px
-    linkStyle 6 stroke:#4facfe,stroke-width:2px
-    linkStyle 7 stroke:#4facfe,stroke-width:2px
-    linkStyle 8 stroke:#4facfe,stroke-width:2px
-    linkStyle 9 stroke:#43e97b,stroke-width:2px
-    linkStyle 10 stroke:#43e97b,stroke-width:2px
-    linkStyle 11 stroke:#43e97b,stroke-width:2px
+    style A fill:#6366f1,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#ec4899,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#06b6d4,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#10b981,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#f472b6,stroke:#fff,stroke-width:1px,color:#fff
+    style F fill:#fb7185,stroke:#fff,stroke-width:1px,color:#fff
+    style G fill:#f97316,stroke:#fff,stroke-width:1px,color:#fff
+    style H fill:#0891b2,stroke:#fff,stroke-width:1px,color:#fff
+    style I fill:#0284c7,stroke:#fff,stroke-width:1px,color:#fff
+    style J fill:#0369a1,stroke:#fff,stroke-width:1px,color:#fff
+    style K fill:#059669,stroke:#fff,stroke-width:1px,color:#fff
+    style L fill:#16a34a,stroke:#fff,stroke-width:1px,color:#fff
+    style M fill:#65a30d,stroke:#fff,stroke-width:1px,color:#fff
 ```
 
 </div>
+
+<br>
+
+<div align="center">
 
 <br>
 
@@ -386,3 +407,4 @@ I believe in writing code that not only works but is also **maintainable**, **sc
 </table>
 
 </div>
+
