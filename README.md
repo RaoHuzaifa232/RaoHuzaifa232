@@ -256,44 +256,6 @@ _(March 2024 - Present)_
 
 <div align="center">
   
-### 🎨 **My Coding Canvas**
-
-<table>
-<tr>
-<td width="100%" align="center">
-
-**🚀 Rao Huzaifa - Frontend Developer**
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**💻 Frontend Mastery**
-- 📱 Responsive Design
-- ⚡ Performance Optimization  
-- 🎨 Modern UI/UX
-
-</td>
-<td width="33%" align="center">
-
-**🎯 Angular Expert**
-- 🔧 Angular 16+ Framework
-- 📊 NgRx State Management
-- 🏗️ Component Architecture
-
-</td>
-<td width="33%" align="center">
-
-**✨ Code Craftsman**
-- 📝 Clean & Maintainable Code
-- 🔄 Industry Best Practices
-- 🚀 Scalable Solutions
-
-</td>
-</tr>
-</table>
-
 ### 🎯 **Skills Visualization**
 
 ```mermaid
