@@ -78,13 +78,6 @@ I specialize in crafting high-quality web solutions. Here's how I can help:
 
 ## 📈 Stats & Activity
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&custom_title=My%20Contribution%20Activities&bg_color=0d1117&color=ffffff&line=38b2ac&point=ffffff&area=true&hide_border=true&area_color=38b2ac" width="100%" alt="Activity Graph"/>
-</div>
-
-<br />
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaoHuzaifa232/RaoHuzaifa232/output/github-contribution-grid-snake-dark.svg">
