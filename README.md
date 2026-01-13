@@ -78,22 +78,6 @@ I specialize in crafting high-quality web solutions. Here's how I can help:
 
 ## 📈 Stats & Activity
 
-<div align="center">
-  <!-- Option 3: Minimal Text Stats (Badges) -->
-  <a href="https://github.com/RaoHuzaifa232">
-    <img src="https://img.shields.io/github/followers/RaoHuzaifa232?style=for-the-badge&logo=github&color=0D1117&labelColor=38B2AC&label=Followers" />
-    <img src="https://img.shields.io/github/stars/RaoHuzaifa232?style=for-the-badge&logo=github&color=0D1117&labelColor=38B2AC&label=Total%20Stars" />
-  </a>
-</div>
-
-<br />
-
-<!-- Option 4: Metrics (Lowlighter) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RaoHuzaifa232/RaoHuzaifa232/master/github-metrics.svg" alt="Metrics" width="100%" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&custom_title=My%20Contribution%20Activities&bg_color=0d1117&color=ffffff&line=38b2ac&point=ffffff&area=true&hide_border=true&area_color=38b2ac" width="100%" alt="Activity Graph"/>
