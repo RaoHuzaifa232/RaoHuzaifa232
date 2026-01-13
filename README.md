@@ -79,6 +79,17 @@ I specialize in crafting high-quality web solutions. Here's how I can help:
 ## 📈 Stats & Activity
 
 <div align="center">
+  <a href="https://github.com/RaoHuzaifa232">
+    <img src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=38b2ac&title_color=38b2ac&count_private=true" height="160" alt="stats graph" />
+  </a>
+  <a href="https://github.com/RaoHuzaifa232">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoHuzaifa232&theme=tokyonight&hide_border=true&background=0D1117&ring=38b2ac&currStreakLabel=38b2ac" height="160" alt="streak graph" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoHuzaifa232&custom_title=My%20Contribution%20Activities&bg_color=0d1117&color=ffffff&line=38b2ac&point=ffffff&area=true&hide_border=true&area_color=38b2ac" width="100%" alt="Activity Graph"/>
 </div>
 
