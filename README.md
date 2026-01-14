@@ -79,6 +79,8 @@ I specialize in crafting high-quality web solutions. Here's how I can help:
 ## 📈 Stats & Activity
 
 <div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaoHuzaifa232/RaoHuzaifa232/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaoHuzaifa232/RaoHuzaifa232/output/github-contribution-grid-snake.svg">
