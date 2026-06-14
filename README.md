@@ -25,7 +25,7 @@
 
 <br/>
 
-Frontend Engineer with 2+ years of experience and $1k+ earned on Upwork, transforming Figma designs into clean, production-ready Angular applications.
+Frontend Engineer with 2+ years of experience, transforming Figma designs into clean, production-ready Angular applications.
 
 **Stack:** Angular (14+) · TypeScript · RxJS · NgRx · Angular Signals · Tailwind CSS · SCSS · Angular Material · PrimeNG · RESTful APIs
 
