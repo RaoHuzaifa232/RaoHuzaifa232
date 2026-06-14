@@ -1,53 +1,42 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rao%20Huzaifa&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Angular%20Developer%20%7C%20High-Performance%20SPAs%20%26%20Figma-to-Code%20Expert&descSize=16&descAlignY=60" alt="Rao Huzaifa" width="100%" />
+# Rao Huzaifa
 
-  <p>
-    <a href="https://www.linkedin.com/in/RaoMHuzaifa/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:mhuzaifarao232@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://rao-huzaifa-portfolio.web.app/">
-      <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.upwork.com/freelancers/~01c42a4e84198b1b3c">
-      <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-    </a>
-  </p>
+**Angular Developer · High-Performance SPAs · Figma-to-Code**
 
-  <img src="https://komarev.com/ghpvc/?username=RaoHuzaifa232&label=Profile%20Views&color=4F8CFF&style=flat" alt="Profile Views" />
+<p>
+  <a href="https://www.linkedin.com/in/RaoMHuzaifa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mhuzaifarao232@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://rao-huzaifa-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01c42a4e84198b1b3c">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=RaoHuzaifa232&label=Profile%20Views&color=4F8CFF&style=flat" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-Detail-oriented Frontend Engineer with 2+ years of experience and a proven track record ($1k+ earned on Upwork) transforming complex Figma designs into clean, production-ready Angular applications.
+Frontend Engineer with 2+ years of experience and $1k+ earned on Upwork, transforming Figma designs into clean, production-ready Angular applications.
 
-- **Core Focus:** Pixel-perfect implementation, performance optimization, and modular architecture
-- **Tech Stack:** Angular (14+), TypeScript, RxJS, NgRx, Angular Signals, Tailwind CSS, SCSS, RESTful APIs
-- **What I Deliver:** Maintainable code, zero layout shifts, and scalable state management
+**Stack:** Angular (14+) · TypeScript · RxJS · NgRx · Angular Signals · Tailwind CSS · SCSS · Angular Material · PrimeNG · RESTful APIs
 
----
+**Focus:** Pixel-perfect implementation · Scalable state management · Zero layout shifts
 
-### Technical Arsenal
-
-| | |
-|:--|:--|
-| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS |
-| **Frameworks** | Angular, RxJS, NgRx, Angular Signals, Angular Material, PrimeNG |
-| **UI & Styling** | Tailwind CSS, Bootstrap, Figma-to-Code, Responsive Web Design |
-| **Tools** | Git, GitHub, GitLab, RESTful APIs, Agile/Scrum |
-
----
-
-### GitHub Stats
+<br/>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoHuzaifa232&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaoHuzaifa232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoHuzaifa232&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
 
   <br/><br/>
 
